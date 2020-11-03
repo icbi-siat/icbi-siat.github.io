@@ -5,6 +5,14 @@ This is the website of our academic research group at Shenzhen Institutes of Adv
 This website is powered by Jekyll and some Bootstrap, Bootwatch. It was customized based on a template generously provided from [Allan Lab](https://github.com/mpa139/allanlab).
 
 Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purpose. 
+## How to deploy the website 
+```
+jekyll build 
+lftp icbi:password@icbi.siat.ac.cn
+
+#within lftp 
+mirror -R _site/ / 
+```
 
 ## How to add publications
 
