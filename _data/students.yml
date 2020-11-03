@@ -1,0 +1,59 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Xinlei Luan
+  photo: 
+  info: Master student
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Shiqi Rao
+  photo: 
+  info: Master student
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Lufeng Ding
+  photo: 
+  info: Master student
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Chaoyu Yang
+  photo: 
+  info: Master student
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Yi Ren
+  photo: 
+  info: Master student (co-supervised)
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Yi Zhang
+  photo: 
+  info: Master student (co-supervised)
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Xiaolong Wu
+  photo: 
+  info: Master student (co-supervised)
+  email: 
+  number_educ: 0
+  education1:
+

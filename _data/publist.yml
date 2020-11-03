@@ -1,0 +1,60 @@
+- title: "Scalable volumetric imaging for ultrahigh-speed brain mapping at synaptic resolution"
+  image: wang_nsr.jpg
+  description: Here, we describe a new microscopy method of Volumetric Imaging with Synchronized on-the-fly-scan and Readout (VISoR) for high-throughput, high-quality brain mapping.  
+  authors: Wang H, Zhu Q, Ding L, Shen Y, Yang CY, Xu F, Shu C, Guo Y, Xiong Z, Shan Q, Jia F. et.al.
+  link:
+    url: https://academic.oup.com/nsr/article/6/5/982/5475673
+    display:  National Science Review, 6(5), pp.982-992.
+  highlight: 1
+  news2:
+
+
+- title: "Synaptic mechanisms of persistent reverberatory activity in neuronal networks"
+  image: lau_pnas.jpg
+  description: In this study, we investigated the basic synaptic mechanisms responsible for reverberatory activity in small networks of rat hippocampal neurons in vitro. 
+  authors: Lau, P.M. and Bi, G.Q. 
+  link: 
+    url: https://www.pnas.org/content/102/29/10333.short
+    display:  Proceedings of the National Academy of Sciences, 102(29), pp.10333-10338.
+  highlight: 1
+  news2:
+
+- title: "Dendritic mitoflash as a putative signal for stabilizing long-term synaptic plasticity"
+  image: fu_tan_nc.jpg
+  description: We find that induction of late-phase sLTP at synaptic spines is associated with a preceding increase in mitoflash frequency occurring in nearby dendritic shafts, whereas mitoflash activity remains unaltered during induction of only short-term spine enlargement. 
+  authors: Fu ZX, Tan X, Fang H, Lau PM, Wang X, Cheng H, Bi GQ. 
+  link: 
+    url: https://www.nature.com/articles/s41467-017-00043-3
+    display: Nature communications. 2017 Jun 26;8(1):1-2. 
+  highlight: 1
+  news2:
+
+- title: Quantitative analysis of vesicle recycling at the calyx of Held synapse
+  image: qiu_pnas.jpg
+  description: our study quantified the kinetics of vesicle recycling and kinetically dissected the whole vesicle pool in the calyceal terminal into the readily releasable pool (∼0.6%), the readily priming pool (∼46%), the premature pool (∼33%), and the resting pool (∼20%).
+  authors: Qiu, X., Zhu, Q. and Sun, J.  
+  link: 
+    url: https://www.pnas.org/content/112/15/4779.short
+    display: Proceedings of the National Academy of Sciences, 112(15), pp.4779-4784.
+  highlight: 1
+  news2:
+
+- title: "Mesophasic organization of GABA A receptors in hippocampal inhibitory synapses"
+  image: em-1-s.jpg
+  description: Information processing in the brain depends on specialized organization of neurotransmitter receptors and scaffolding proteins within the postsynaptic density. However, how these molecules are organized in situ remains largely unknown. In this study, template-free classification of oversampled sub-tomograms was used to analyze cryo-electron tomograms of hippocampal synapses. We identified type-A GABA receptors (GABAARs) in inhibitory synapses and determined their in situ structure at 19-Å resolution. These receptors are organized hierarchically&#58; from GABAAR super-complexes with a preferred inter-receptor distance of 11nm but variable relative angles, through semi-ordered, two-dimensional receptor networks with reduced Voronoi entropy, to mesophasic assembly with a sharp phase boundary. These assemblies likely form via interactions among postsynaptic scaffolding proteins and receptors and align with putative presynaptic vesicle release sites. Such mesophasic self-organization might allow synapses to achieve a Goldilocks state, striking a balance between stability and flexibility and enabling plasticity in information processing.
+  authors: Liu YT, Tao CL, Zhang XK, Xia WJ, Shi DQ, Qi L, Xu C, Rong S, Li XW, Lau PM, Zhou ZH, Bi GQ.
+  link: 
+    url: https://www.nature.com/articles/s41593-020-00729-w
+    display: Nature Neuroscience. 2020 Nov 02, 1-8.
+  highlight: 1
+  news2:
+
+#  - title: ""
+#   image: 
+#   description: 
+#   authors: 
+#   link: 
+#     url:
+#     display: Nature communications. 2017 Jun 26;8(1):1-2. 
+#   highlight: 0
+#   news2:

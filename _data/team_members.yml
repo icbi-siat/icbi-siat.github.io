@@ -1,0 +1,88 @@
+- name: Pak-ming Lau
+  photo: lbm2.png
+  info: Professor, Principal investigator
+  short_desc: Circuit Dynamics Underlying Brain Function and Disorders.
+  email: plau@siat.ac.cn
+  homepage: 
+  number_educ: 0
+
+- name: Xiaokang Zhang
+  photo: zxk.png
+  info: Professors of engineer, Principal investigator
+  short_desc: In situ structural biology of membrane protein complexes and drug discovery
+  email: xk.zhang@siat.ac.cn
+  homepage: 
+  number_educ: 0
+
+- name: Fang Xu
+  photo: xf2.jpg
+  info: Associate investigator
+  short_desc: (1) Fast whole brain mapping and deep-learning analysis of rodents and primates.<br/>(2) Emerging properties of neuronal network underlying learning and memory.
+  email: fang.xu@siat.ac.cn
+  homepage: http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/93.shtml
+  number_educ: 0
+
+- name: Peihua Chen
+  photo: cph.jpg
+  info: Associate investigator
+  short_desc: Investigates the molecular and cellular mechanism of synaptic vesicle release and develops high- accuracy detection techniques and methods for synaptic vesicles signals in CNS in vivo.
+  email: ph.chen@siat.ac.cn
+  homepage: http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/19.shtml
+  number_educ: 0
+
+- name: Zhanhong Du
+  photo: dzh.jpg
+  info: Associate investigator
+  short_desc: Focus on developing functional interface materials for in vivo electrophysiology and electrochemistry study of neural disease mechanisms.
+  email: zh.du@siat.ac.cn
+  homepage: http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/26.shtml
+  number_educ: 0
+
+- name: Baoqiang Li
+  photo: lbq2.jpg
+  info: Associate investigator
+  short_desc: Biomedical optics, neurophotonics, multiphoton microscopy, cerebral blood flow and oxygen metabolism, and neurovascular coupling.
+  email: bq.li@siat.ac.cn
+  homepage: http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/36.shtml
+  number_educ: 0
+
+- name: Xuefeng Shen
+  photo: sxf.jpg
+  info: Associate investigator
+  short_desc: Mechanism of synaptic vesicle release and novel methods to study single cells, single synapses and exocytosis.
+  email: xf.shen@siat.ac.cn
+  homepage: http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/40.shtml
+  number_educ: 0
+
+- name: Danke Zhang
+  photo: zdk.jpg
+  info: Associate investigator
+  short_desc: Computational models of neural information processing, currently working on learning and memory models to explain basic structural and dynamical properties of cortical networks.
+  email: dk.zhang@siat.ac.cn
+  homepage: http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/79.shtml
+  number_educ: 0
+
+- name: Yanyang Xiao
+  photo: xyy2.jpg
+  info: Associate investigator
+  short_desc: Neuronal network reconstruction by measurement of dynamics; Neuronal data analysis and method development.
+  email: yy.xiao@siat.ac.cn
+  homepage: http://bcbdi.siat.ac.cn/index.php/member/showMember/nid/94.shtml
+  number_educ: 0
+
+- name: Chang-Lu Tao
+  photo: tcl2.jpg
+  info: Associate investigator
+  short_desc: (1) Multi-model nano-imaging techniques; (2) Ultrastructure and molecular mechanisms of synaptic transmission and plasticity; (3) In situ structures of macromolecules by cryo-ET and sub-tomogram averaging.
+  email: cl.tao@siat.ac.cn
+  homepage: 
+  number_educ: 0
+
+- name: Pengcheng Zhou
+  photo: zpc2.png
+  info: Associate investigator
+  short_desc: Statistical modeling and automated processing of big neuro data; computational neuroscience, machine learning.
+  email: pc.zhou@siat.ac.cn
+  homepage: https://zhoupc.github.io/
+  number_educ: 0
+

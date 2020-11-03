@@ -1,0 +1,24 @@
+#- name:
+#  photo: rock.jpg
+#  info:
+#  email:
+#  number_educ:
+#  education1:
+#  education2:
+#  education3:
+#  education4:
+
+- name: Fei Li
+  photo: 
+  info: Postdoc
+  email: 
+  number_educ: 0
+  education1:
+
+- name: Yang Wang
+  photo: 
+  info: Postdoc
+  email: 
+  number_educ: 0
+  education1:
+
