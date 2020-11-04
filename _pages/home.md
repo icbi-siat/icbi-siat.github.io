@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The <i>Interdisciplinary Center for Brain Information (ICBI)</i> gathers research and innovation strengths of [<i>Shenzhen Institute of Advanced Technology</i>](http://english.siat.cas.cn/) and [<i>Hefei National Laboratory for Physical Sciences at the Microscale</i>](http://www.hfnl.ustc.edu.cn/). By using and developing interdisciplinary approaches to acquire, analyze and understand multi-modality information of brain connectome and regulation, the center aims to reveal basic mechanisms of brain information processing at multiple structural and temporal scales, to help understand and treat brain diseases, and to inspire the next generation intelligence technology.
+The <i>Interdisciplinary Center for Brain Information (ICBI)</i> gathers research and innovation strengths of [<i>Shenzhen Institutes of Advanced Technology</i>](http://english.siat.cas.cn/) and [<i>Hefei National Laboratory for Physical Sciences at the Microscale</i>](http://www.hfnl.ustc.edu.cn/). By using and developing interdisciplinary approaches to acquire, analyze and understand multi-modality information of brain connectome and regulation, the center aims to reveal basic mechanisms of brain information processing at multiple structural and temporal scales, to help understand and treat brain diseases, and to inspire the next generation intelligence technology.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
