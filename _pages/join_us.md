@@ -30,7 +30,7 @@ CAS-SIAT is a flagship, novel, national research institution focused on bridging
 
 Applicants must have a Ph.D., M.D., or equivalent degree. Although all qualified applicants are encouraged to apply, those having demonstrated research experience in neurobiology, optical microscopy, electron microscopy, and/or computational neuroscience will be preferably considered. Successful candidates are expected to conduct original research, following efficient, in-depth instructions from ICBI’s investigators. ICBI provides extraordinary research facilities and a collegial environment that foster growth in all academic aspects. Prospective fellows are expected to receive an annual salary of 300,000 RMB including living allowance from the provincial and municipal governments, with additional fellowships and supplements available to eligible candidates.
 
-To apply, please send a cover letter, a current curriculum vitae (including education history, employment history, research experience, and publication list), and contact information for three letters of reference to min.zhang@siat.ac.cn. Short-listed candidates will be contacted for interviews. For further information, please email min.zhang@siat.ac.cn . 
+To apply, please send a cover letter, a current curriculum vitae (including education history, employment history, research experience, and publication list), and contact information for three letters of reference to icbi_hr@siat.ac.cn. Short-listed candidates will be contacted for interviews. For further information, please email icbi_hr@siat.ac.cn . 
 
 Positions will remain open until filled.
 ```

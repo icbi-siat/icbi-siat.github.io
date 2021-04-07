@@ -12,6 +12,7 @@ email: zhoupc1988@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 baseurl: ""
+baidutmid: 5a3c43adc0220a5563ef1dcaec6ab720
 # url: https://icbi-siat.github.io/
 
 # Company Information
@@ -19,7 +20,7 @@ company_name: Shenzhen Institutes of Advanced Technology, Chinese Academy of Sci
 address_line: 1068 Xueyuan Avenue, Shenzhen University Town, Nanshan District, Shenzhen, China 518055
 telephone_number: +86.755.0000.0000
 fax_number: +86.755.0000.0000
-company_email: min.zhang__at__siat.ac.cn
+company_email: icbi_hr__at__siat.ac.cn
 google_map: https://goo.gl/maps/DZ2ryodVVL6DRswy5 
 
 # markdown: redcarpet
@@ -27,7 +28,7 @@ google_map: https://goo.gl/maps/DZ2ryodVVL6DRswy5
 # future: true
 
 # tracking (by Fang)
-baidu_tmid: 5a3c43adc0220a5563ef1dcaec6ab720
+
 
 include:
   - .htaccess

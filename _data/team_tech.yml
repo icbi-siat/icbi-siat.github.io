@@ -5,6 +5,13 @@
   email: 
   number_educ: 0
 
+- name: Fei Fang
+  photo: 
+  info: Research assistant
+  short_desc: 
+  email: 
+  number_educ: 0
+
 - name: Fengyi Wu
   photo: 
   info: Technician
@@ -14,14 +21,14 @@
 
 - name: Xiaoyang Qi
   photo: 
-  info: Technician
+  info: Assistant engineer
   short_desc: 
   email: 
   number_educ: 0
 
 - name: Minmin Bi
   photo: 
-  info: Technician
+  info: Assistant engineer
   short_desc: 
   email: 
   number_educ: 0
