@@ -26,6 +26,8 @@ google_map: https://goo.gl/maps/DZ2ryodVVL6DRswy5
 # permalink: /:categories/:title/
 # future: true
 
+# tracking (by Fang)
+baidu_tmid: 5a3c43adc0220a5563ef1dcaec6ab720
 
 include:
   - .htaccess
