@@ -27,10 +27,12 @@ Jump to [directors](#directors), [investigators](#investigators), [research assi
 <div class="col-sm-6 clearfix">
   {% if member.homepage == "" or member.homepage == nil %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
   {% else %}
   <a href="{{ member.homepage }}"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /></a>
+  <h4><a href="{{ member.homepage }}">{{ member.name }}</a></h4>
   {% endif %}
-  <h4>{{ member.name }}</h4>
+  
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <p>{{ member.short_desc }}</p>
 </div>
@@ -62,10 +64,11 @@ Jump to [directors](#directors), [investigators](#investigators), [research assi
 <div class="col-sm-6 clearfix">
   {% if member.homepage == "" or member.homepage == nil %}
   <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" />
+  <h4>{{ member.name }}</h4>
   {% else %}
   <a href="{{ member.homepage }}"><img src="{{ site.url }}{{ site.baseurl }}/images/teampic/{{ member.photo }}" class="img-responsive" width="25%" style="float: left" /></a>
+  <h4><a href="{{ member.homepage }}">{{ member.name }}</a></h4>
   {% endif %}
-  <h4>{{ member.name }}</h4>
   <i>{{ member.info }}<br>email: <{{ member.email }}></i>
   <p>{{ member.short_desc }}</p>
 </div>

@@ -1,3 +1,80 @@
+#  - title: ""
+#   image: 
+#   descriptio-: 
+#   authors: 
+#   link: 
+#     url:
+#     display: "Nature communications. 2017 Jun 26;8(1):1-2. "
+#   highlight: 0
+#   news2:
+
+-   authors: Xu F#, Shen Y#, Ding LF#, Yang CY#, Tan H, Wang H, Zhu QY, Xu R, Wu FY, Xu C, Li QW, Su P, Zhang LI, Dong HW, Desimone R, Xu FQ, Hu XT, Lau PM* & Bi GQ*.
+    title: High-throughput whole-brain mapping of rhesus monkey at micron resolution.
+    link:
+      url:
+      display: "bioRxiv (2020)"
+    highlight: 0
+
+- title: "Mesophasic organization of GABA A receptors in hippocampal inhibitory synapses"
+  image: em-1-s.jpg
+  description: Information processing in the brain depends on specialized organization of neurotransmitter receptors and scaffolding proteins within the postsynaptic density. However, how these molecules are organized in situ remains largely unknown. In this study, template-free classification of oversampled sub-tomograms was used to analyze cryo-electron tomograms of hippocampal synapses. We identified type-A GABA receptors (GABAARs) in inhibitory synapses and determined their in situ structure at 19-Å resolution. These receptors are organized hierarchically&#58; from GABAAR super-complexes with a preferred inter-receptor distance of 11nm but variable relative angles, through semi-ordered, two-dimensional receptor networks with reduced Voronoi entropy, to mesophasic assembly with a sharp phase boundary. These assemblies likely form via interactions among postsynaptic scaffolding proteins and receptors and align with putative presynaptic vesicle release sites. Such mesophasic self-organization might allow synapses to achieve a Goldilocks state, striking a balance between stability and flexibility and enabling plasticity in information processing.
+  authors: Liu YT, Tao CL, Zhang XK, Xia WJ, Shi DQ, Qi L, Xu C, Rong S, Li XW, Lau PM, Zhou ZH, Bi GQ.
+  link: 
+    url: https://www.nature.com/articles/s41593-020-00729-w
+    display: Nature Neuroscience. (2020)
+  highlight: 1
+  news2:
+-   authors: Xu C#, Liu HJ#, Qi L , Tao CL, Wang YJ, Shen ZY, Tian CL, Lau PM* & Bi GQ*.
+    title: Structure and plasticity of silent synapses in developing hippocampal neurons visualized by super-resolution imaging.
+    link:
+      url:
+      display: "Cell Discovery 6:8 (2020)."
+    highlight: 0
+
+-   authors: "Liu YT#, Shivakoti S#, Jia F, Tao CL, Zhang B, Xu FQ, Lau PM, Bi GQ* & Zhou ZH*."
+    title: Biphasic exocytosis of herpesvirus from hippocampal neurons and mechanistic implication to membrane fusion.
+    link:
+      url:
+      display: "Cell Discovery6:2 (2020)."
+    highlight: 0
+
+-   authors: "Li F, Jia CH, Huang J, Bi GQ* & Lau PM*."
+    title: High frequency optogenetic activation of inputs to the lateral amygdala forms distant association with foot-shock.
+    link:
+      url:
+      display: "Molecular Brain 13:44 44 (2020)."
+    highlight: 0
+
+-   authors: "Gong X#, Mendoza-Halliday D#, Ting JT#, Kaiser T, Sun XY, Bastos AM, Wimmer RD, Guo BL, Chen Q, Zhou Y, Pruner M, Wu CWH, Park D, Deisseroth K, Barak B, Boyden ES, Miller EK, Halassa MM, Fu ZY, Bi GQ, Desimone R*, Feng GP*."
+    title: An Ultra-Sensitive Step-Function Opsin for Minimally Invasive Optogenetic Stimulation in Mice and Macaques.
+    link:
+      url:
+      display: "Neuron. 107,1:38-51.e8 (2020)"
+    highlight: 0
+
+-   authors: "Zhou Z#, Liu XM #, Chen SP, Zhang ZJ, Liu YM, Montardy Q, Tang YQ, Wei PF, Liu N, Li L, Song R, Lai J, He XB, Chen C, Bi GQ, Feng GP, Xu FQ* & Wang LP*."
+    title: A VTA GABAergic Neural Circuit Mediates Visually Evoked Innate Defensive Responses.
+    link:
+      url:
+      display: "Neuron 103, 473-488 (2019)."
+
+-   authors: "Zhang YB#, Liu W#, Li ZH, Kumar V, Alvarez-Cabrera AL, Leibovitch EC, Cui YX, Mei Y, Bi GQ, Jacobson S & Zhou ZH*."
+    title: Atomic Structure of the Human Herpesvirus 6B Capsid and Capsid-Associated Tegument Complexes.
+    link:
+      url:
+      display: "Nature Communication.10:5346 (2019)."
+
+-   authors: "Xu ZQ*, Xu F, Bi GQ, Zhou D* & Cai D."
+    title: A cautionary tale of entropic criteria in assessing the validity of the maximum entropy principle.
+    link:
+      url:
+      display: "EPL (Europhysics Letters) 126, 38005 (2019)."
+
+-   authors: "Wang Y, Yin J, Wang GY, Li PP, Bi GQ, Li SN, Xia XH, Song JR, Pei G* & Zheng JC*."
+    title: Responsibility and Sustainability in Brain Science, Technology, and Neuroethics in China-a Culture-Oriented Perspective.
+    link:
+      display: "Neuron 101, 375-379 (2019)."
+
 - title: "Scalable volumetric imaging for ultrahigh-speed brain mapping at synaptic resolution"
   image: wang_nsr.jpg
   description: Here, we describe a new microscopy method of Volumetric Imaging with Synchronized on-the-fly-scan and Readout (VISoR) for high-throughput, high-quality brain mapping.  
@@ -8,16 +85,90 @@
   highlight: 1
   news2:
 
+-   authors: "Villette V#, Chavarha M#, Dimov IK, Bradley J, Pradhan L, Mathieu B, Evans SW, Chamberland S, Shi DQ, Yang RZ, Kim BB, Ayon A, Jalil A, St-Pierre F, Schnitzer MJ, Bi GQ, Toth K, Ding J, Dieudonne S* & Lin MZ*."
+    title: Ultrafast Two-Photon Imaging of a High-Gain Voltage Indicator in Awake Behaving Mice.
+    link:
+      display: "Cell 179, 1590-1608 e23 (2019)."
 
-- title: "Synaptic mechanisms of persistent reverberatory activity in neuronal networks"
-  image: lau_pnas.jpg
-  description: In this study, we investigated the basic synaptic mechanisms responsible for reverberatory activity in small networks of rat hippocampal neurons in vitro. 
-  authors: Lau, P.M. and Bi, G.Q. 
-  link: 
-    url: https://www.pnas.org/content/102/29/10333.short
-    display:  Proceedings of the National Academy of Sciences, 102(29), pp.10333-10338.
-  highlight: 1
-  news2:
+-   authors: "Tang JS#, Yuan F#, Shen XK#, Wang ZR, Rao MY, He YY, Sun YH, Li XY, Zhang WB, Li YJ, Gao B, Qian H, Bi GQ, Song S, Yang JJ *& Wu HQ*."
+    title: "Bridging Biological and Artificial Neural Networks with Emerging Neuromorphic Devices: Fundamentals, Progress, and Challenges."
+    link:
+      display: "Advanced Materials 31, e1902761 (2019)."
+
+-   authors: "Sun R#, Liu YT#, Tao CL#*, Qi L, Lau PM, Zhou ZH & Bi GQ."
+    title: An efficient protocol of cryo-correlative light and electron microscopy for the study of neuronal synapses. 
+    link:
+      display: "Biophysics Reports 5, 111-122 (2019)."
+
+-   authors: "Liu YT#, Tao CL#, Lau PM, Zhou ZH* & Bi GQ*."
+    title: Postsynaptic protein organization revealed by electron microscopy.
+    link:
+      display: "Current opinion in structural biology 54: 152-160 (2019)."
+
+-   authors: "Liu YT, Jih J, Dai XH, Bi GQ & Zhou ZH*."
+    title: Cryo-EM structures of herpes simplex virus type 1 portal vertex and packaged genome.
+    link:
+      display: "Nature 570, 257-261 (2019)."
+
+-   authors: "Gong DY#, Dai XH#, Jih J#, Liu YT#, Bi GQ, Sun R* & Zhou ZH*."
+    title: DNA-Packing Portal and Capsid-Associated Tegument Complexes in the Tumor Herpesvirus KSHV.
+    link:
+      display: "Cell 178, 1329-1343 (2019)."
+
+-   authors: "Xu F, Shi DQ, Lau PM, Lin MZ* & Bi GQ*."
+    title: Excitation wavelength optimization improves photostability of ASAP-family GEVIs.
+    link:
+      display: "Molecular Brain 11:32 (2018)."
+
+-   authors: "Tao CL#, Liu YT#, Zhou ZH, Lau PM & Bi GQ*."
+    title: Accumulation of Dense Core Vesicles in Hippocampal Synapses Following Chronic Inactivity.
+    link:
+      display: "Frontiers in Neuroanatomy 12, 48 (2018)."
+
+-   authors: "Tao CL#, Liu YT#, Sun R, Zhang B, Qi L, Shivakoti S, Tian CL, Zhang PJ, Lau PM, Zhou ZH* & Bi GQ*."
+    title: Differentiation and Characterization of Excitatory and Inhibitory Synapses by Cryo-electron Tomography and Correlative Microscopy.
+    link:
+      display: "Journal of Neuroscience 38, 1493-1510 (2018)."
+
+-   authors: "Sun R, Chen X*, Yin CY, Qi L, Lau PM, Han H & Bi GQ*."
+    title: Correlative light and electron microscopy for complex cellular structures on PDMS substrates with coded micro-patterns.
+    link:
+      display: "Lab Chip 18, 3840-3848 (2018)."
+
+-   authors: "Si Z#, Zhang J#, Shivakoti S, Atanasov I, Tao CL, Hui WH, Zhou K, Yu XK, Li WK, Luo M, Bi GQ & Zhou ZH*."
+    title: Different functional states of fusion protein gB revealed on human cytomegalovirus by cryo electron tomography with Volta phase plate. 
+    link:
+      display: "PLoS Pathog 14, e1007452 (2018)."
+
+-   authors: "Liu S#, Xu LY#, Guan FH#, Liu YT, Cui YX, Zhang Q, Zheng X, Bi GQ, Zhou ZH*, Zhang X* & Ye S*."
+    title: Cryo-EM structure of the human α5β3 GABAA receptor.
+    link:
+      display: "Cell Research28, 958-961 (2018)."
+
+-   authors: "Guo YJ#, Tang X#, Zhang JC, Jin S, Li JN, Ding LF, Zhang KM, Yang CY, Zhou H, He XB, Xu FQ, Bi GQ, Xu L* & Lau PM*."
+    title: Corticosterone Signaling and a Lateral Habenula-Ventral Tegmental Area Circuit Modulate Compulsive Self-Injurious Behavior in a Rat Model.
+    link:
+      display: "Journal of Neuroscience 38, 5251-5266 (2018)."
+
+-   authors: "Du ZJ, Bi GQ & Cui XT."
+    title: Electrically Controlled Neurochemical Release from Dual-Layer Conducting Polymer Films for Precise Modulation of Neural Network Activity in Rat Barrel Cortex.
+    link:
+      display: "Advanced Functional Materials 28 (2018)."
+
+-   authors: "Tian T#, Li XR#, Liu YY#, Wang CL, Liu X, Bi GQ, Zhang X*, Yao XB*, Zhou ZH*& Zang JY*."
+    title: Molecular basis for CENP-N recognition of CENP-A nucleosome on the human kinetochore. 
+    link:
+      display: "Cell Research.28, 374-378 (2018)"
+
+-   authors: "Yuste R*, Goering S*, Arcas BAY, Bi GQ, Carmena JM, Carter A, Fins JJ, Friesen P, Gallant J, Huggins JE, Illes J, Kellmeyer P, Klein E, Marblestone A, Mitchell C, Parens E, Pham M, Rubel A, Sadato N, Sullivan LS, Teicher M, Wasserman D, Wexler A, Whittaker M & Wolpaw J."
+    title: Four ethical priorities for neurotechnologies and AI.
+    link:
+      display: "Nature551, 159-163 (2017)."
+
+-   authors: "Liu YT#, Jiang J#, Bohannon KP, Dai XH, Gant Luxton GW, Hui WH, Bi GQ, Smith GA & Zhou ZH*."
+    title: A pUL25 dimer interfaces the pseudorabies virus capsid and tegument. 
+    link:
+      display: "Journal of General Virology 98, 2837-2849 (2017)."
 
 - title: "Dendritic mitoflash as a putative signal for stabilizing long-term synaptic plasticity"
   image: fu_tan_nc.jpg
@@ -29,6 +180,21 @@
   highlight: 1
   news2:
 
+-   authors: "Wang P, Du J, Liu H, Bi G*& Zhang G*."
+    title: "Small quinolinium-based enzymatic probes via blue-to-red ratiometric fluorescence."
+    link:
+      display: "Analyst 141, 1483-1487 (2016)."
+
+-   authors: "Chen XF, Xu C, Wang T, Zhou C, Du JJ, Wang ZP, Xu HX, Xie TQ, Bi GQ, Jiang J, Zhang XP*, Demas JN, Trindle CO, Luo Y & Zhang GQ*."
+    title: "Versatile Room-Temperature-Phosphorescent Materials Prepared from N-Substituted Naphthalimides: Emission Enhancement and Chemical Conjugation."
+    link:
+      display: "Angew Chem Int Ed Engl 55, 9872-9876 (2016)."
+
+-   authors: "Chai YH, Bi GQ, Wang LP, Xu FQ, Wu RQ, Zhou X, Qiu BS, Lei H, Zhang YY & Gao JH*."
+    title: Direct detection of optogenetically evoked oscillatory neuronal electrical activity in rats using SLOE sequence.
+    link:
+      display: "Neuroimage 125, 533-543 (2016)."
+
 - title: Quantitative analysis of vesicle recycling at the calyx of Held synapse
   image: qiu_pnas.jpg
   description: our study quantified the kinetics of vesicle recycling and kinetically dissected the whole vesicle pool in the calyceal terminal into the readily releasable pool (∼0.6%), the readily priming pool (∼46%), the premature pool (∼33%), and the resting pool (∼20%).
@@ -39,22 +205,177 @@
   highlight: 1
   news2:
 
-- title: "Mesophasic organization of GABA A receptors in hippocampal inhibitory synapses"
-  image: em-1-s.jpg
-  description: Information processing in the brain depends on specialized organization of neurotransmitter receptors and scaffolding proteins within the postsynaptic density. However, how these molecules are organized in situ remains largely unknown. In this study, template-free classification of oversampled sub-tomograms was used to analyze cryo-electron tomograms of hippocampal synapses. We identified type-A GABA receptors (GABAARs) in inhibitory synapses and determined their in situ structure at 19-Å resolution. These receptors are organized hierarchically&#58; from GABAAR super-complexes with a preferred inter-receptor distance of 11nm but variable relative angles, through semi-ordered, two-dimensional receptor networks with reduced Voronoi entropy, to mesophasic assembly with a sharp phase boundary. These assemblies likely form via interactions among postsynaptic scaffolding proteins and receptors and align with putative presynaptic vesicle release sites. Such mesophasic self-organization might allow synapses to achieve a Goldilocks state, striking a balance between stability and flexibility and enabling plasticity in information processing.
-  authors: Liu YT, Tao CL, Zhang XK, Xia WJ, Shi DQ, Qi L, Xu C, Rong S, Li XW, Lau PM, Zhou ZH, Bi GQ.
+-   authors: "Wei PF#, Liu N#, Zhang ZJ#, Liu XM, Tang YQ, He XB, Wu BF, Zhou Z, Liu YH, Li J, Zhang Y, Zhou XY, Xu L, Chen L, Bi GQ, Hu XT, Xu FQ & Wang LP*."
+    title: Processing of visually evoked innate fear by a non-canonical thalamic pathway.
+    link:
+      display: "Nature Communication 6:6756 (2015)."
+
+-   authors: "Shi L, Du X, Zhou H, Tao CL, Liu YT, Meng FT, Wu G, Xiong Y, Xia C, Wang Y, Bi GQ & Zhou JN*."
+    title: Cumulative effects of the ApoE genotype and gender on the synaptic proteome and oxidative stress in the mouse brain.
+    link:
+      display: "Int J Neuropsychopharmacol 17, 1863-1879 (2014)."
+
+-   authors: "Zhang XK#, Ge P#, Yu XK, Brannan JM, Bi GQ, Zhang QF, Schein S & Zhou ZH*"
+    title: Cryo-EM structure of the mature dengue virus at 3.5-angstrom resolution. 
+    link: 
+      display: "Nature Structural & Molecular Biology 20:105-U133. (2013)"
+
+-   authors: "Li XY#, Liu HJ#, Sun XX, Bi GQ* & Zhang GQ *"
+    title: "Highly Fluorescent Dye-Aggregate-Enhanced Energy-Transfer Nanoparticles for Neuronal Cell Imaging."
+    link:
+      display: "Advanced Optical Materials 1:549-553. (2013)"
+
+-   authors: "Gerkin RC*, Nauen DW, Xu F & Bi GQ*"
+    title: Homeostatic regulation of spontaneous and evoked synaptic transmission in two steps.
+    link:
+      display: "Molecular Brain 6. (2013)"
+
+-   authors: "Tao CL#, Xia CL#, Chen XB, Zhou ZH & Bi GQ*"
+    title: Ultrastructural analysis of neuronal synapses using state-of-the-art nano-imaging techniques.
+    link:
+      display: "Neuroscience Bulletin 28:321-332. (2012)"
+
+-   authors: "Shim SH#, Xia CL#, Zhong GS, Babcock HP, Vaughan JC, Huang B, Wang X, Bi GQ* & Zhuang XW*"
+    title: Super-resolution fluorescence imaging of organelles in live cells with photoswitchable membrane probes. 
+    link:
+      display: "P Natl Acad Sci USA 109:13978-13983. (2012)"
+
+-   authors: "Nauen DW* & Bi GQ"
+    title: Measuring action potential-evoked transmission at individual synaptic contacts.
+    link:
+      display: "J Neural Eng 9. (2012)"
+
+-   authors: "Vishwanathan A, Bi GQ & Zeringue HC*"
+    title: "Ring-shaped neuronal networks: a platform to study persistent activity."
+    link:
+      display: "Lab Chip 11:1081-1088. (2011)"
+
+-   authors: "Stauffer WR#, Lau PM#, Bi GQ & Cui XT*"
+    title: "Rapid modulation of local neural activity by controlled drug release from polymer-coated recording microelectrodes." 
+    link:
+      display: "Journal of Neural Engineering 8. (2011)"
+
+-   authors: "Froemke RC*, Debanne D & Bi GQ."
+    title: Temporal modulation of spike-timing-dependent plasticity.
+    link:
+      display: "Frontiers in Synaptic Neuroscience 2, 19 (2010)."
+
+-   authors: "Zhang JC, Lau PM & Bi GQ*"
+    title: Gain in sensitivity and loss in temporal contrast of STDP by dopaminergic modulation at hippocampal synapses.
+    link:
+      display: "P Natl Acad Sci USA 106:13028-13033. (2009)"
+
+-   authors: "Volman V*, Gerkin RC, Lau PM, Ben-Jacob E & Bi GQ"
+    title: Calcium and synaptic dynamics underlying reverberatory activity in neuronal networks.
+    link:
+      display: "Physical Biology 4:91-103. (2007)"
+
+-   authors: "Lau PM & Bi GQ*"
+    title: Reverberatory activity in neuronal networks in vitro.
+    link:
+      display: "Chinese Science Bulletin 54, 1828-1835 (2009)."
+
+-   authors: "Gerkin RC#, Lau PM#, Nauen DW, Wang YT & Bi GQ*"
+    title: Modular competition driven by NMDA receptor subtypes in spike-timing-dependent plasticity.
+    link:
+      display: "J Neurophysiol 97:2851-2862. (2007)"
+
+-   authors: "Wang HX#, Gerkin RC, Nauen DW & Bi GQ*"
+    title: Coactivation and timing-dependent integration of synaptic potentiation and depression.
+    link:
+      display: "Nat Neurosci 8:187-193. (2005)"
+
+-   authors: "Shtrahman M, Yeung C, Nauen DW, Bi GQ & Wu XL*"
+    title: Probing vesicle dynamics in single hippocampal synapses.
+    link:
+      display: "Biophys J 89:3615-3627. (2005)"
+
+-   authors: "Rubin JE*, Gerkin RC, Bi GQ & Chow CC"
+    title: Calcium time course as a signal for spike-timing-dependent plasticity.
+    link:
+      display: "J Neurophysiol 93:2600-2613. (2005)"
+
+- title: "Synaptic mechanisms of persistent reverberatory activity in neuronal networks"
+  image: lau_pnas.jpg
+  description: In this study, we investigated the basic synaptic mechanisms responsible for reverberatory activity in small networks of rat hippocampal neurons in vitro. 
+  authors: Lau, P.M. and Bi, G.Q. 
   link: 
-    url: https://www.nature.com/articles/s41593-020-00729-w
-    display: Nature Neuroscience. 2020 Nov 02, 1-8.
-  highlight: 1
+    url: https://www.pnas.org/content/102/29/10333.short
+    display:  Proceedings of the National Academy of Sciences, 102(29), pp.10333-10338.
+  highlight: 0
   news2:
 
-#  - title: ""
-#   image: 
-#   description: 
-#   authors: 
-#   link: 
-#     url:
-#     display: Nature communications. 2017 Jun 26;8(1):1-2. 
-#   highlight: 0
-#   news2:
+-   authors: "Bi GQ* & Rubin J"
+    title: "Timing in synaptic plasticity: from detection to integration."
+    link:
+      display: "Trends Neurosci 28:222-228. (2005)"
+
+-   authors: "Bi GQ* & Wang HX"
+    title: Temporal asymmetry in spike timing-dependent synaptic plasticity.
+    link:
+      display: "Physiol Behav 77:551-555. (2002)"
+
+-   authors: "Bi GQ *"
+    title: "Spatiotemporal specificity of synaptic plasticity: cellular rules and mechanisms."
+    link:
+      display: "Biol Cybern 87:319-332. (2002)"
+
+-   authors: "Berninger B* & Bi GQ*"
+    title: "Synaptic modification in neural circuits: a timely action."
+    link:
+      display: "Bioessays 24:212-222. (2002)"
+
+-   authors: "Bi GQ & Poo MM*"
+    title: "Synaptic modification by correlated activity: Hebb's postulate revisited."
+    link:
+      display: "Annu Rev Neurosci 24:139-166. (2001)"
+
+-   authors: "van Rossum MCW*, Bi GQ & Turrigiano GG"
+    title: "Stable Hebbian learning from spike timing-dependent plasticity."
+    link:
+      display: "J Neurosci 20:8812-8821. (2000)"
+
+-   authors: "Tao HW#, Zhang LI#, Bi GQ# & Poo MM*"
+    title: "Selective presynaptic propagation of long-term potentiation in defined neural networks."
+    link:
+      display: "J Neurosci 20:3233-3243. (2000)"
+
+-   authors: "Andersen SSL* & Bi GQ"
+    title: "Axon formation: a molecular model for the generation of neuronal polarity."
+    link:
+      display: "Bioessays 22:172-179. (2000)"
+
+-   authors: "Togo T, Alderton JM, Bi GQ & Steinhardt RA*"
+    title: The mechanism of facilitated cell membrane resealing. 
+    link:
+      display: "J Cell Sci 112:719-731. (1999)"
+
+-   authors: "Bi GQ* & Poo MM"
+    title: Distributed synaptic modification in neural networks induced by patterned stimulation. 
+    link:
+      display: "Nature 401:792-796. (1999)"
+
+-   authors: "Bi GQ & Poo MM*"
+    title: "Synaptic modifications in cultured hippocampal neurons: Dependence on spike timing, synaptic strength, and postsynaptic cell type."
+    link:
+      display: "J Neurosci 18:10464-10472. (1998)"
+
+-   authors: "Bi GQ, Morris RL, Liao GC, Alderton JM, Scholey JM & Steinhardt RA*"
+    title: Kinesin- and myosin-driven steps of vesicle recruitment for Ca2+-regulated exocytosis.
+    link:
+      display: "J Cell Biol 138:999-1008. (1997)"
+
+-   authors: "Bi GQ, Alderton JM & Steinhardt RA*"
+    title: Calcium-regulated exocytosis is required for cell membrane resealing. 
+    link: 
+      display: "J Cell Biol 131:1747-1758. (1995)"
+
+-   authors: "Steinhardt RA*, Bi GQ & Alderton JM"
+    title: Cell-Membrane Resealing by a Vesicular Mechanism Similar to Neurotransmitter Release.
+    link:
+      display: "Science 263:390-393. (1994)"
+
+-   authors: "Denetclaw WF*, Bi GQ, Pham DV & Steinhardt RA"
+    title: Heterokaryon Myotubes with Normal Mouse and Duchenne Nuclei Exhibit Sarcolemmal Dystrophin Staining and Efficient Intracellular Free Calcium Control. 
+    link:
+      display: "Mol Biol Cell 4:963-972. (1993)"
