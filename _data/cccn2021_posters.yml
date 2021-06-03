@@ -1,0 +1,149 @@
+#  - title: ""
+#   image: 
+#   descriptio-: 
+#   authors: 
+#   link: 
+#     url:
+#     display: "Nature communications. 2017 Jun 26;8(1):1-2. "
+#   highlight: 0
+#   news2:
+#  See CCCN2021/conv_tab_webpage.py
+
+- title: "Mr."
+  authors: "韩传亮"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Cortex-wide dynamics of intrinsic electrical activities: propagating waves and their interactions"
+  authors: "Yuqi Liang"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Segregation, integration, and balance of large-scale resting brain networks configure different cognitive abilities"
+  authors: "王荣"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Neural coding heterogeneity of hippocampal CA1 pyramidal neurons"
+  authors: "Jiamin Xu"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Synaptotagmin-7-Mediated Asynchronous Release Boosts High-Fidelity Synchronous Transmission at a Central Synapse"
+  authors: "罗富均"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "The Effects of Reciprocal Projections on Multisensory Integration"
+  authors: "董晔霖"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Multiscale Entropy Analysis of Instantaneous Frequency Variation to Overcome the Cross-Over Artifact in Rhythmic EEG"
+  authors: "李艳"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "A model-based fMRI study of the neural representations underlying reward and avoidance decision processes"
+  authors: "Xiaoliu ZHANG"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "A General Platform for Computational Neuroscience and Brain-inspired Computing"
+  authors: "Chaoming Wang"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "意识三部曲"
+  authors: "谭少锋"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Analysis of C. elegans connectomes across development"
+  authors: "常畅"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Associative memory model with arbitrary Hebbian length"
+  authors: "蒋子健(Zijian Jiang)"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "A Gap Junction Network Model for State-dependent Oscillation in Thalamic Reticular Nucleus"
+  authors: "Chaoming Wang"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Sparse coding by Spiking Neural Networks :   based on biophysically detailed models"
+  authors: "杜雪兴"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Classify Working Memory Capacity Using Graph-Based Models"
+  authors: "吴若翎"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "A General LSTM-based Deep Learning Method for Estimating Neuronal Models and Inferring Neural Circuitry"
+  authors: "盛楷文"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Generative perspective of the primary visual cortex"
+  authors: "Zedong Bi"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "思维语言的多尺度连续性语意标记的意向性脑图谱框架"
+  authors: "齐一真"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "计算针灸学 ——促进针灸学科新发展的重要引擎"
+  authors: "陈波"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Characterizing economic decision-making in orbitofrontal cortex using point process models"
+  authors: "韩馨月"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Learning credit assignment"
+  authors: "李婵"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Activation of the hippocampal LXRβ improves sleep-deprived cognitive impairment by inhibiting neuroinflammation"
+  authors: "邱晨"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
+- title: "Self-motion signals in macaque posterior cingulate region"
+  authors: "刘炳煜"
+  entrance:
+    ID: "123123"
+    link: "qq.com"
+
