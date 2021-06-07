@@ -6,7 +6,13 @@ sitemap: false
 permalink: /cccn2021/poster_room
 ---
 
-# CCCN2021 Poster rooms
+# CCCN2021 Poster session
+
+*[Main site](https://meeting.cns.org.cn/2021CCCN/)*.
+
+**Poster session time:** 2021-06-13 09:00-12:00 Beijing Time(UTC+8).
+
+<br />
 
 {% assign number_printed = 0 %}
 {% for publi in site.data.cccn2021_posters %}
@@ -19,9 +25,11 @@ permalink: /cccn2021/poster_room
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }}</pubtit>
+  <pubtit>{{ publi.title }} <a href="{{ publi.abstract }}">[Abstract]</a></pubtit>
+  <p></p>
   <p><em>{{ publi.authors }}</em></p>
-  <p>Room ID: <a href="{{ publi.entrance.link }}">{{ publi.entrance.ID }}</a></p>
+  <p>{{ publi.affiliation }}</p>
+  <p>Keywords: {{ publi.keywords }}</p>
  </div>
 </div>
 
