@@ -10,12 +10,12 @@ permalink: /cccn2021/poster_room
 
 *[Main site](https://meeting.cns.org.cn/2021CCCN/)*.
 
-**Poster session time:** 2021-06-13 09:00-12:00 Beijing Time(UTC+8).
+**Poster session time:** 2021-06-11 18:10-21:00 Beijing Time(UTC+8).
 
 <br />
 
 {% assign number_printed = 0 %}
-{% for publi in site.data.cccn2021_posters %}
+{% for publi in site.data.cccn2021_posters_preview %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
@@ -25,11 +25,14 @@ permalink: /cccn2021/poster_room
 
 <div class="col-sm-6 clearfix">
  <div class="well">
-  <pubtit>{{ publi.title }} <a href="{{ publi.abstract }}">[Abstract]</a></pubtit>
+  <pubtit>分组编号： {{ publi.ID }} <a href="{{ site.url }}{{ site.baseurl }}/cccn2021/poster/{{ publi.poster }}">[Poster]</a></pubtit>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/cccn2021_poster_preview/{{ publi.preview }}" class="img-responsive" width="33%" style="float: left" />
   <p></p>
   <p><em>{{ publi.authors }}</em></p>
   <p>{{ publi.affiliation }}</p>
-  <p>Keywords: {{ publi.keywords }}</p>
+  <p></p>
+  <br />
+  <br />
  </div>
 </div>
 
