@@ -5,6 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+# multi-language support
+# https://github.com/untra/polyglot
+# bundle install
+#or
+# sudo apt-get install ruby-jekyll-polyglot
+#plugins:
+#  - jekyll-polyglot
+
 # Site settings
 title: ICBI @ SIAT 
 name: ICBI @ SIAT
