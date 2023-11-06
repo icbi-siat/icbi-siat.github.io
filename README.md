@@ -10,6 +10,7 @@ Go to *aboutwebsite.md*  to learn how to copy and modidy this page for your purp
 ```
 cd DIR_OF_ICBI_SIAT_GITHUB_IO
 bundle exec jekyll serve --watch
+#To modify the site, start from `_pages/*.md`.
 ```
 
 ## How to deploy the website 
@@ -20,20 +21,6 @@ lftp icbi:password@icbi.siat.ac.cn
 #within lftp 
 mirror -R _site/ / 
 ```
-
-To midify the site, start from the following path:
-
-index.html
-
-team/_posts/
-
-blog/_posts/
-
-papers/_posts/
-
-misc/_posts/
-
-projects/index.html
 
 
 Copyright ICBI@2020. Code released under the MIT License.
