@@ -8,52 +8,272 @@
 #  education3:
 #  education4:
 
-- name: Xinlei Luan
-  photo: 
-  info: Master student
-  email: 
+- name: Haiyan Chen
+  photo:
+  info: Doctoral student
+  email:
   number_educ: 0
-  education1:
 
-- name: Shiqi Rao
-  photo: 
-  info: Master student
-  email: 
+- name: Yi Yang
+  photo:
+  info: Doctoral student
+  email:
   number_educ: 0
-  education1:
 
-- name: Lufeng Ding
-  photo: 
+- name: Baoxun Du
+  photo:
   info: Master student
-  email: 
+  email:
   number_educ: 0
-  education1:
 
-- name: Chaoyu Yang
-  photo: 
+- name: Haodong Yan
+  photo:
   info: Master student
-  email: 
+  email:
   number_educ: 0
-  education1:
+
+- name: Jiajun Zhang
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Jiaxi Liu
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Jiaxin Li
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Jinhui Xu
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Jinning Li
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Keming Su
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Lewei Zhang
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Lisa Jan
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Rihe Dong
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Shiyi Ding
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Shu Yang
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Shuhui Xie
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Siyi Yang
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Tuojing
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Weibo Wang
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Xiaowei Fan
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Xinrui Guo
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Yang Liu
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Yue Zhang
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Zhen Yang
+  photo:
+  info: Master student
+  email:
+  number_educ: 0
+
+- name: Chongli Tian
+  photo:
+  info: Doctoral student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Hewei Cao
+  photo:
+  info: Doctoral student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Xiang Shi
+  photo:
+  info: Doctoral student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Yinan Xia
+  photo:
+  info: Doctoral student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Zhaoxiang Zhang
+  photo:
+  info: Doctoral student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Guangzhao Xu
+  photo:
+  info: Master student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Jazhi Sun
+  photo:
+  info: Master student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Na Liu
+  photo:
+  info: Master student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Niu Liu
+  photo:
+  info: Master student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Ranxi Chen
+  photo:
+  info: Master student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Shiqi Zhang
+  photo:
+  info: Master student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Siyu Li
+  photo:
+  info: Master student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Tao Song
+  photo:
+  info: Master student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Weidong Lin
+  photo:
+  info: Master student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Yanan Xu
+  photo:
+  info: Master student (co-supervised)
+  email:
+  number_educ: 0
 
 - name: Yi Ren
-  photo: 
+  photo:
   info: Master student (co-supervised)
-  email: 
+  email:
   number_educ: 0
-  education1:
 
-- name: Yi Zhang
-  photo: 
+- name: Yifei Ren
+  photo:
   info: Master student (co-supervised)
-  email: 
+  email:
   number_educ: 0
-  education1:
 
-- name: Xiaolong Wu
-  photo: 
+- name: Yuanpeng Mao
+  photo:
   info: Master student (co-supervised)
-  email: 
+  email:
   number_educ: 0
-  education1:
 
+- name: Zhengyu Lv
+  photo:
+  info: Master student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Zhenhang Lu
+  photo:
+  info: Master student (co-supervised)
+  email:
+  number_educ: 0
+
+- name: Zhuo Li
+  photo:
+  info: Master student (co-supervised)
+  email:
+  number_educ: 0

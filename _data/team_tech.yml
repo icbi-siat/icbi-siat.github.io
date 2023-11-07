@@ -1,42 +1,174 @@
-- name: Ji Leng
-  photo: 
-  info: Research assistant
-  short_desc: 
-  email: 
+- name: Lufeng Ding
+  photo:
+  info: Engineer
+  short_desc:
+  email:
   number_educ: 0
 
-- name: Fei Fang
-  photo: 
-  info: Research assistant
-  short_desc: 
-  email: 
+- name: Zijian Yi
+  photo:
+  info: Engineer
+  short_desc:
+  email:
   number_educ: 0
 
-- name: Fengyi Wu
-  photo: 
-  info: Technician
-  short_desc: 
-  email: 
+- name: Cheng Wang
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Huaien Yang
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Jiayue Zhang
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Muyeser Maimaiti
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Rubin Zhao
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Sai Kang
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Wenlan Huang
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Xiaoqian Wei
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Xiaowei Hu
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Xiaoxia Liang
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Xiaoying Zou
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Yang Li
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Yilian Li
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Yuhang Cheng
+  photo:
+  info: Research assistant
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Huanhuan Xia
+  photo:
+  info: Assistant engineer
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Minling Gu
+  photo:
+  info: Assistant engineer
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Quqing Shen
+  photo:
+  info: Assistant engineer
+  short_desc:
+  email:
   number_educ: 0
 
 - name: Xiaoyang Qi
-  photo: 
+  photo:
   info: Assistant engineer
-  short_desc: 
-  email: 
+  short_desc:
+  email:
   number_educ: 0
 
-- name: Minmin Bi
-  photo: 
-  info: Assistant engineer
-  short_desc: 
-  email: 
-  number_educ: 0
-
-- name: Yinyan Bin
-  photo: 
+- name: Chunhui Liu
+  photo:
   info: Technician
-  short_desc: 
-  email: 
+  short_desc:
+  email:
   number_educ: 0
 
+- name: Jiaqi Yan
+  photo:
+  info: Technician
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Lina Zhang
+  photo:
+  info: Technician
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Ru Li
+  photo:
+  info: Technician
+  short_desc:
+  email:
+  number_educ: 0
+
+- name: Shenghao Zhang
+  photo:
+  info: Technician
+  short_desc:
+  email:
+  number_educ: 0

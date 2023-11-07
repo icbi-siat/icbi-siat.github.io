@@ -1,6 +1,6 @@
 #- name:
 #  photo: rock.jpg
-#  info:
+#  info: 
 #  email:
 #  number_educ:
 #  education1:
@@ -8,17 +8,62 @@
 #  education3:
 #  education4:
 
+- name: Chaoyu Yang
+  photo:
+  info: Postdoc
+  email:
+  number_educ: 0
+
 - name: Fei Li
-  photo: 
+  photo:
   info: Postdoc
-  email: 
+  email:
   number_educ: 0
-  education1:
 
-- name: Yang Wang
-  photo: 
+- name: Kunpeng Ma
+  photo:
   info: Postdoc
-  email: 
+  email:
   number_educ: 0
-  education1:
 
+- name: Qiyu Chen
+  photo:
+  info: Postdoc
+  email:
+  number_educ: 0
+
+- name: Shuainan Zhao
+  photo:
+  info: Postdoc
+  email:
+  number_educ: 0
+
+- name: Yalong Wang
+  photo:
+  info: Postdoc
+  email:
+  number_educ: 0
+
+- name: Yan Shen
+  photo:
+  info: Postdoc
+  email:
+  number_educ: 0
+
+- name: Zehui Qu
+  photo:
+  info: Postdoc
+  email:
+  number_educ: 0
+
+- name: Zhenghan Liao
+  photo:
+  info: Postdoc
+  email:
+  number_educ: 0
+
+- name: Zili Liu
+  photo:
+  info: Postdoc
+  email:
+  number_educ: 0
