@@ -8,13 +8,31 @@
 #   highlight: 0
 #   news2:
 
+- title: "Isotropic reconstruction for electron tomography with deep learning"
+  image: liu-nc.png
+  description: "Cryogenic electron tomography (cryoET) allows visualization of cellular structures in situ. However, anisotropic resolution arising from the intrinsic “missing-wedge” problem has presented major challenges in visualization and interpretation of tomograms. Here, we have developed IsoNet, a deep learning-based software package that iteratively reconstructs the missing-wedge information and increases signal-to-noise ratio, using the knowledge learned from raw tomograms. Without the need for sub-tomogram averaging, IsoNet generates tomograms with significantly reduced resolution anisotropy. Applications of IsoNet to three representative types of cryoET data demonstrate greatly improved structural interpretability: resolving lattice defects in immature HIV particles, establishing architecture of the paraflagellar rod in Eukaryotic flagella, and identifying heptagon-containing clathrin cages inside a neuronal synapse of cultured cells. Therefore, by overcoming two fundamental limitations of cryoET, IsoNet enables functional interpretation of cellular tomograms without sub-tomogram averaging. Its application to high-resolution cellular tomograms should also help identify differently oriented complexes of the same kind for sub-tomogram averaging."
+  authors: Liu YT, Zhang H, Wang H, Tao CL, Bi GQ* & Zhou ZH*.
+  link:
+    url: https://www.nature.com/articles/s41467-022-33957-8
+    display: "Nature Communications 13, Article number: 6482 (2022)"
+  highlight: 1
+
+- title: "The epitope arrangement on flavivirus particles contributes to Mab C10's extraordinary neutralization breadth across Zika and dengue viruses"
+  image: sharma-cell.png
+  description: The human monoclonal antibody C10 exhibits extraordinary cross-reactivity, potently neutralizing Zika virus (ZIKV) and the four serotypes of dengue virus (DENV1-DENV4). Here we describe a comparative structure-function analysis of C10 bound to the envelope (E) protein dimers of the five viruses it neutralizes. We demonstrate that the C10 Fab has high affinity for ZIKV and DENV1 but not for DENV2, DENV3, and DENV4. We further show that the C10 interaction with the latter viruses requires an E protein conformational landscape that limits binding to only one of the three independent epitopes per virion. This limited affinity is nevertheless counterbalanced by the particle's icosahedral organization, which allows two different dimers to be reached by both Fab arms of a C10 immunoglobulin. The epitopes' geometric distribution thus confers C10 its exceptional neutralization breadth. Our results highlight the importance not only of paratope/epitope complementarity but also the topological distribution for epitope-focused vaccine design. .
+  authors: Sharma A, Zhang X, Dejnirattisai W, Dai X, Gong D, Wongwiwat W, Duquerroy S, Rouvinski A, Vaney MC, Guardado-Calvo P, Haouz A, England P, Sun R, Zhou ZH, Mongkolsapaya J, Screaton GR, Rey FA.
+  link:
+    url: https://pubmed.ncbi.nlm.nih.gov/34852239/
+    display: "Cell 184(25), 6052-6066 e18 (2021)."
+  highlight: 1
+
 - title: "High-throughput whole-brain mapping of rhesus monkey at micron resolution"
   image: xu-nbt.png
   description: Whole-brain mesoscale mapping in primates has been hindered by large brain sizes and the relatively low throughput of available microscopy methods. Here, we present an approach that combines primate-optimized tissue sectioning and clearing with ultrahigh-speed fluorescence microscopy implementing improved volumetric imaging with synchronized on-the-fly-scan and readout technique, and is capable of completing whole-brain imaging of a rhesus monkey at 1 × 1 × 2.5 µm3 voxel resolution within 100 h. We also developed a highly efficient method for long-range tracing of sparse axonal fibers in datasets numbering hundreds of terabytes. This pipeline, which we call serial sectioning and clearing, three-dimensional microscopy with semiautomated reconstruction and tracing (SMART), enables effective connectome-scale mapping of large primate brains. With SMART, we were able to construct a cortical projection map of the mediodorsal nucleus of the thalamus and identify distinct turning and routing patterns of individual axons in the cortical folds while approaching their arborization destinations.
   authors: Xu F#, Shen Y#, Ding LF#, Yang CY#, Tan H, Wang H, Zhu QY, Xu R, Wu FY, Xu C, Li QW, Su P, Zhang LI, Dong HW, Desimone R, Xu FQ, Hu XT, Lau PM* & Bi GQ*.
   link:
     url: https://www.nature.com/articles/s41587-021-00986-5
-    display: Nature Biotechnology (2021)
+    display: "Nature Biotechnology 39, Pages: 1521–1528 (2021)"
   highlight: 1
 
 - title: "Mesophasic organization of GABA A receptors in hippocampal inhibitory synapses"
@@ -23,7 +41,7 @@
   authors: Liu YT, Tao CL, Zhang XK, Xia WJ, Shi DQ, Qi L, Xu C, Rong S, Li XW, Lau PM, Zhou ZH, Bi GQ.
   link: 
     url: https://www.nature.com/articles/s41593-020-00729-w
-    display: Nature Neuroscience (2020)
+    display: "Nature Neuroscience 23, Pages: 1589–1596 (2020)"
   highlight: 1
   news2:
 -   authors: Xu C#, Liu HJ#, Qi L , Tao CL, Wang YJ, Shen ZY, Tian CL, Lau PM* & Bi GQ*.
