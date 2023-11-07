@@ -8,12 +8,14 @@
 #   highlight: 0
 #   news2:
 
--   authors: Xu F#, Shen Y#, Ding LF#, Yang CY#, Tan H, Wang H, Zhu QY, Xu R, Wu FY, Xu C, Li QW, Su P, Zhang LI, Dong HW, Desimone R, Xu FQ, Hu XT, Lau PM* & Bi GQ*.
-    title: High-throughput whole-brain mapping of rhesus monkey at micron resolution.
-    link:
-      url:
-      display: "bioRxiv (2020)"
-    highlight: 0
+- title: "High-throughput whole-brain mapping of rhesus monkey at micron resolution"
+  image: xu-nbt.png
+  description: Whole-brain mesoscale mapping in primates has been hindered by large brain sizes and the relatively low throughput of available microscopy methods. Here, we present an approach that combines primate-optimized tissue sectioning and clearing with ultrahigh-speed fluorescence microscopy implementing improved volumetric imaging with synchronized on-the-fly-scan and readout technique, and is capable of completing whole-brain imaging of a rhesus monkey at 1 × 1 × 2.5 µm3 voxel resolution within 100 h. We also developed a highly efficient method for long-range tracing of sparse axonal fibers in datasets numbering hundreds of terabytes. This pipeline, which we call serial sectioning and clearing, three-dimensional microscopy with semiautomated reconstruction and tracing (SMART), enables effective connectome-scale mapping of large primate brains. With SMART, we were able to construct a cortical projection map of the mediodorsal nucleus of the thalamus and identify distinct turning and routing patterns of individual axons in the cortical folds while approaching their arborization destinations.
+  authors: Xu F#, Shen Y#, Ding LF#, Yang CY#, Tan H, Wang H, Zhu QY, Xu R, Wu FY, Xu C, Li QW, Su P, Zhang LI, Dong HW, Desimone R, Xu FQ, Hu XT, Lau PM* & Bi GQ*.
+  link:
+    url: https://www.nature.com/articles/s41587-021-00986-5
+    display: Nature Biotechnology (2021)
+  highlight: 1
 
 - title: "Mesophasic organization of GABA A receptors in hippocampal inhibitory synapses"
   image: em-1-s.jpg
@@ -21,7 +23,7 @@
   authors: Liu YT, Tao CL, Zhang XK, Xia WJ, Shi DQ, Qi L, Xu C, Rong S, Li XW, Lau PM, Zhou ZH, Bi GQ.
   link: 
     url: https://www.nature.com/articles/s41593-020-00729-w
-    display: Nature Neuroscience. (2020)
+    display: Nature Neuroscience (2020)
   highlight: 1
   news2:
 -   authors: Xu C#, Liu HJ#, Qi L , Tao CL, Wang YJ, Shen ZY, Tian CL, Lau PM* & Bi GQ*.
